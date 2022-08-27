@@ -78,6 +78,18 @@ export default function Weather() {
             <Forecast day="Thu" />
           </Row>
         </div>
+
+        <div className="code-link">
+          <a
+            href="https://github.com/Daria-Sazon/weather-app-react"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ color: "gray" }}
+          >
+            Open source code
+          </a>{" "}
+          by Daria Sazon
+        </div>
       </div>
     </div>
   );

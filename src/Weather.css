@@ -68,12 +68,7 @@
 }
 
 .code-link {
-  text-align: center;
   font-size: 12px;
   margin-top: 10px;
   color: gray;
-}
-
-.code-link-github {
-  color: #ec6e4c;
 }
