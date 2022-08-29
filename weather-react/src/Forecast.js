@@ -10,6 +10,7 @@ export default function Forecast(props) {
           src="http://openweathermap.org/img/wn/10d@2x.png"
           alt=""
           width="75"
+          rel="noopener noreferrer"
         />
         <div>
           <strong className="high-temp"> 25°</strong>

@@ -50,6 +50,7 @@ export default function Weather() {
                   src={weatherData.imgUrl}
                   alt={weatherData.condition}
                   width="110"
+                  rel="noopener"
                 />
               </Col>
               <Col xs={9} className="temp-wind">
