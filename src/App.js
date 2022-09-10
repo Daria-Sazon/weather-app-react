@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/Daria-Sazon"
+            href="https://github.com/Daria-Sazon/weather-app-react"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -27,7 +27,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="3"
+            href="https://phenomenal-lolly-ac6b12.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
